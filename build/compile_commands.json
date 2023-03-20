@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/coding/projects/dsex2/build",
+  "command": "E:\\coding\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\DSexperiment2.dir\\testDSexperiment2.c.obj -c E:\\coding\\projects\\dsex2\\testDSexperiment2.c",
+  "file": "E:/coding/projects/dsex2/testDSexperiment2.c"
+},
+{
+  "directory": "E:/coding/projects/dsex2/build",
+  "command": "E:\\coding\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\DSexperiment2.dir\\DSexperiment2.c.obj -c E:\\coding\\projects\\dsex2\\DSexperiment2.c",
+  "file": "E:/coding/projects/dsex2/DSexperiment2.c"
+}
+]

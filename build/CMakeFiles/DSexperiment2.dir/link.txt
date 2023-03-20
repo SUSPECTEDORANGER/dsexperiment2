@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\DSexperiment2.dir/objects.a
+E:\coding\mingw64\bin\ar.exe qc CMakeFiles\DSexperiment2.dir/objects.a @CMakeFiles\DSexperiment2.dir\objects1.rsp
+E:\coding\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\DSexperiment2.dir/objects.a -Wl,--no-whole-archive -o DSexperiment2.exe -Wl,--out-implib,libDSexperiment2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DSexperiment2.dir\linklibs.rsp
